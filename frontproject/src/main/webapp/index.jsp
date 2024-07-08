@@ -10,5 +10,6 @@
 	<h2>FrontController를 사용하여 게시판 만들기</h2>
 	<a href="sampleTB/list.do">sampleTB 목록으로 이동!</a>
 	수정합니다.
+	팀원이 수정!
 </body>
 </html>
